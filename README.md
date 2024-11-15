@@ -24,7 +24,7 @@ Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 Machine Learning (Scikit-learn)
 Statistical Analysis (SciPy)
 ## Use Cases:
-Content Optimization: Identifying which categories and nutritional profiles drive user engagement.
-Performance Monitoring: Benchmarking and tracking key metrics for recipe success.
-Business Strategy: Allocating resources toward high-performing categories and improving underperforming ones.
+1. Content Optimization: Identifying which categories and nutritional profiles drive user engagement.
+2. Performance Monitoring: Benchmarking and tracking key metrics for recipe success.
+3. Business Strategy: Allocating resources toward high-performing categories and improving underperforming ones.
 

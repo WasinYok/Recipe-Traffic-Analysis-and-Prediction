@@ -19,6 +19,15 @@ Interactive and static plots for data insights and model performance.
 ## Files:
 - site_traffic.ipynb: Main notebook containing the analysis, modeling, and results.
 - recipe_site_traffic_2212.csv: Dataset with recipe traffic data, nutritional values, and categories.
+  - Data Explanation :
+    - recipe : Numeric, unique identifier of recipe
+    - calories : Numeric, number of calories
+    - carbohydrate : Numeric, amount of carbohydrates in grams
+    - sugar : Numeric, amount of sugar in grams
+    - protein : Numeric, amount of protein in grams
+    - category : Characterm type of recipe. Recipes are listed in one of ten possible groupings ("Lunch/Snacks", "Beverages", "Potato", "Vegetable", "Meat", "Chicken", "Pork", "Dessert", "Breakfast", "One Dish Meal").
+    - servings : Numeric, number of servings for the recipe
+    - high_traffic : Character, if the traffic to the site was high when this recipe was shown, this is marked with "High".
 ## Technologies:
 Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 Machine Learning (Scikit-learn)
